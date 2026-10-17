@@ -4,10 +4,10 @@ Installers for **Wrid Diet** on Windows 10 / 11 (64-bit). This repository holds 
 
 ## Download
 
-**[⬇ Download WridDietPos-0.3.3-x64.msi](https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi)** (version 0.3.3)
+**[⬇ Download WridDietPos-0.3.4-x64.msi](https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi)** (version 0.3.4)
 
 ```
-https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi
+https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi
 ```
 
 - All versions: [Releases](https://github.com/3nady/wrid-diet-desktop-releases/releases)
@@ -16,17 +16,17 @@ https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/Wri
 
 ## Install
 
-1. Download and double-click `WridDietPos-0.3.3-x64.msi`.
+1. Download and double-click `WridDietPos-0.3.4-x64.msi`.
 2. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway** (the file is not code-signed yet).
 3. Click **Next**, **Install**, accept the administrator prompt, then **Finish**. The app installs to `C:\Program Files\Wrid Diet` with a desktop shortcut.
 
-Silent install for many PCs (administrator Command Prompt): `msiexec /i WridDietPos-0.3.3-x64.msi /qn`
+Silent install for many PCs (administrator Command Prompt): `msiexec /i WridDietPos-0.3.4-x64.msi /qn`
 
 A newer version installs over the old one and keeps the sign-in, settings and printers.
 
 ## التنزيل والتثبيت
 
-**[⬇ تنزيل WridDietPos-0.3.3-x64.msi](https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi)** (الإصدار 0.3.3)
+**[⬇ تنزيل WridDietPos-0.3.4-x64.msi](https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi)** (الإصدار 0.3.4)
 
 1. نزّل الملف وانقر عليه نقراً مزدوجاً.
 2. إذا ظهرت رسالة «حمى Windows جهاز الكمبيوتر» اضغط «مزيد من المعلومات» ثم «تشغيل على أي حال».

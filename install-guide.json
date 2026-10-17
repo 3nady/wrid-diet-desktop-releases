@@ -1,18 +1,18 @@
 {
   "app": "Wrid Diet Desktop",
-  "version": "0.3.3",
-  "download_url": "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi",
-  "release_page": "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.3",
-  "file_name": "WridDietPos-0.3.3-x64.msi",
+  "version": "0.3.4",
+  "download_url": "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi",
+  "release_page": "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.4",
+  "file_name": "WridDietPos-0.3.4-x64.msi",
   "size_bytes": 53686272,
-  "sha256": "c42f8a47c3c05930da65beed94e81730d3f9eb93d38be8182c026fd9f6b96d60",
+  "sha256": "2806369eeca8618bf2bcec736062c23a852542dd660064d5f77ad0a16f9a4e44",
   "title": {
     "ar": "تثبيت وريد دايت على جهاز Windows",
     "en": "Installing Wrid Diet on a Windows PC"
   },
   "subtitle": {
-    "ar": "كاشير اشتراكات الوجبات · الإصدار 0.3.3 · Windows 10 و 11",
-    "en": "Meal subscriptions cashier · Version 0.3.3 · Windows 10 and 11"
+    "ar": "كاشير اشتراكات الوجبات · الإصدار 0.3.4 · Windows 10 و 11",
+    "en": "Meal subscriptions cashier · Version 0.3.4 · Windows 10 and 11"
   },
   "default_language": "ar",
   "sections": [
@@ -55,22 +55,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "ar": "ملف التثبيت اسمه WridDietPos-0.3.3-x64.msi (حوالي 51 ميجابايت). احصل عليه بإحدى الطريقتين:",
-          "en": "The installer is WridDietPos-0.3.3-x64.msi (about 51 MB). Get it one of two ways:"
+          "ar": "ملف التثبيت اسمه WridDietPos-0.3.4-x64.msi (حوالي 51 ميجابايت). احصل عليه بإحدى الطريقتين:",
+          "en": "The installer is WridDietPos-0.3.4-x64.msi (about 51 MB). Get it one of two ways:"
         },
         {
           "type": "steps",
           "ar": [
-            "رابط مباشر (الأسهل): تنزيل WridDietPos-0.3.3-x64.msi\nhttps://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.3.3",
+            "رابط مباشر (الأسهل): تنزيل WridDietPos-0.3.4-x64.msi\nhttps://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.3.4",
             "نسخ مباشر: انسخ الملف بذاكرة USB من الجهاز الذي بُني عليه، من المجلد D:\\Wrid System\\diet-pos\\desktop\\artifacts\\."
           ],
           "en": [
-            "Direct link (easiest): Download WridDietPos-0.3.3-x64.msi\nhttps://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi\nThe link is public, no sign-in needed. Release page: v0.3.3",
+            "Direct link (easiest): Download WridDietPos-0.3.4-x64.msi\nhttps://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi\nThe link is public, no sign-in needed. Release page: v0.3.4",
             "Direct copy: copy the file on a USB stick from the PC it was built on, folder D:\\Wrid System\\diet-pos\\desktop\\artifacts\\."
           ],
           "links": [
-            "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/WridDietPos-0.3.3-x64.msi",
-            "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.3"
+            "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.4/WridDietPos-0.3.4-x64.msi",
+            "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.4"
           ]
         }
       ]
@@ -86,14 +86,14 @@
         {
           "type": "steps",
           "ar": [
-            "انقر نقراً مزدوجاً على WridDietPos-0.3.3-x64.msi.",
+            "انقر نقراً مزدوجاً على WridDietPos-0.3.4-x64.msi.",
             "إذا ظهرت نافذة «حمى Windows جهاز الكمبيوتر» (SmartScreen): اضغط «مزيد من المعلومات» ثم «تشغيل على أي حال». تظهر لأن الملف غير موقّع رقمياً بعد.",
             "في نافذة الترحيب اضغط Next. اترك مجلد التثبيت كما هو (C:\\Program Files\\Wrid Diet) واضغط Next ثم Install.",
             "وافق على طلب صلاحية المسؤول (UAC) بالضغط على نعم.",
             "عند الانتهاء اضغط Finish. ستجد اختصار «وريد دايت - Wrid Diet» على سطح المكتب وفي قائمة ابدأ."
           ],
           "en": [
-            "Double-click WridDietPos-0.3.3-x64.msi.",
+            "Double-click WridDietPos-0.3.4-x64.msi.",
             "If \"Windows protected your PC\" (SmartScreen) appears: click More info, then Run anyway. It shows because the file is not code-signed yet.",
             "On the welcome page click Next. Keep the install folder (C:\\Program Files\\Wrid Diet), click Next, then Install.",
             "Accept the administrator prompt (UAC) with Yes.",
@@ -112,7 +112,7 @@
         },
         {
           "type": "code",
-          "text": "msiexec /i WridDietPos-0.3.3-x64.msi /qn"
+          "text": "msiexec /i WridDietPos-0.3.4-x64.msi /qn"
         }
       ]
     },
@@ -493,7 +493,7 @@
     }
   ],
   "footer": {
-    "ar": "وريد دايت - Wrid Diet · نسخة سطح المكتب 0.3.3 · الدعم عبر واتساب: +966 55 690 0966",
-    "en": "وريد دايت - Wrid Diet · Desktop 0.3.3 · WhatsApp support: +966 55 690 0966"
+    "ar": "وريد دايت - Wrid Diet · نسخة سطح المكتب 0.3.4 · الدعم عبر واتساب: +966 55 690 0966",
+    "en": "وريد دايت - Wrid Diet · Desktop 0.3.4 · WhatsApp support: +966 55 690 0966"
   }
 }
