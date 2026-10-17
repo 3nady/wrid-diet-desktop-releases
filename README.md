@@ -18,7 +18,7 @@ https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.3/Wri
 
 1. Download and double-click `WridDietPos-0.3.3-x64.msi`.
 2. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway** (the file is not code-signed yet).
-3. Click **Next**, **Install**, accept the administrator prompt, then **Finish**. The app installs to `C:Program Files${folder}` with a desktop shortcut.
+3. Click **Next**, **Install**, accept the administrator prompt, then **Finish**. The app installs to `C:\Program Files\Wrid Diet` with a desktop shortcut.
 
 Silent install for many PCs (administrator Command Prompt): `msiexec /i WridDietPos-0.3.3-x64.msi /qn`
 
