@@ -1,13 +1,13 @@
 {
   "app": "Wrid Diet Desktop",
-  "version": "0.3.15",
+  "version": "0.3.16",
   "platform": "windows-x64",
   "min_os": "Windows 10 64-bit",
-  "file_name": "WridDietPos-0.3.15-x64.msi",
-  "size_bytes": 53882880,
-  "sha256": "afd3f1aff78b2ba3d30349ce6908ed6fd9ff9d30304d46c940e1e1bac9ca9f4f",
-  "download_url": "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.15/WridDietPos-0.3.15-x64.msi",
-  "release_page": "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.15",
-  "silent_install": "msiexec /i WridDietPos-0.3.15-x64.msi /qn",
+  "file_name": "WridDietPos-0.3.16-x64.msi",
+  "size_bytes": 53862400,
+  "sha256": "f2dca4b7225a59df0d50a93afec1b7085d352698f5b82626915255563dfb5e79",
+  "download_url": "https://github.com/3nady/wrid-diet-desktop-releases/releases/download/v0.3.16/WridDietPos-0.3.16-x64.msi",
+  "release_page": "https://github.com/3nady/wrid-diet-desktop-releases/releases/tag/v0.3.16",
+  "silent_install": "msiexec /i WridDietPos-0.3.16-x64.msi /qn",
   "released_at": "2026-10-27"
 }
